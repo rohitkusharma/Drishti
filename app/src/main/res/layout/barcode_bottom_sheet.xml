@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="@dimen/barcode_bottom_sheet_padding_vertical"
+    android:paddingBottom="@dimen/barcode_bottom_sheet_padding_vertical"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/barcode_field_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:scrollbars="vertical"/>
+
+    <!-- Button to copy scanned information -->
+    <Button
+        android:id="@+id/copyButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Copy Link to clipboard"
+        android:layout_gravity="center"
+        android:layout_marginTop="26dp"
+        android:background="@color/Tab4Background"
+        android:textColor="@color/white"
+        android:onClick="onCopyButtonClick" />
+
+    <!-- Button to open a link -->
+    <Button
+        android:id="@+id/openLinkButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Link in browser"
+        android:layout_gravity="center"
+        android:layout_marginTop="26dp"
+        android:layout_marginBottom="20dp"
+        android:background="@color/Tab4Background"
+        android:textColor="@color/white"
+        android:onClick="onOpenLinkButtonClick" />
+
+</LinearLayout>

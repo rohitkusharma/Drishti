@@ -1,0 +1,39 @@
+org.tensorflow.lite.examples.objectdetection.app-coordinatorlayout-1.1.0-0 C:\Users\DELL\.gradle\caches\transforms-3\0c3fb176e5b11d4c43f89abb0c8b3cc6\transformed\coordinatorlayout-1.1.0\res
+org.tensorflow.lite.examples.objectdetection.app-fragment-1.3.6-1 C:\Users\DELL\.gradle\caches\transforms-3\121c863aa9c8d5b1082fa55dc0fc12d0\transformed\fragment-1.3.6\res
+org.tensorflow.lite.examples.objectdetection.app-jetified-play-services-basement-18.1.0-2 C:\Users\DELL\.gradle\caches\transforms-3\1b23ebb5af47a371fb56f096af357ba5\transformed\jetified-play-services-basement-18.1.0\res
+org.tensorflow.lite.examples.objectdetection.app-jetified-savedstate-1.1.0-3 C:\Users\DELL\.gradle\caches\transforms-3\1c71ee4e013b2f6ba8375485489a2a0f\transformed\jetified-savedstate-1.1.0\res
+org.tensorflow.lite.examples.objectdetection.app-drawerlayout-1.1.1-4 C:\Users\DELL\.gradle\caches\transforms-3\22d584327f3ee457cab1971f3e4f3e05\transformed\drawerlayout-1.1.1\res
+org.tensorflow.lite.examples.objectdetection.app-jetified-annotation-experimental-1.1.0-5 C:\Users\DELL\.gradle\caches\transforms-3\26a61a7f1224f8612f1c91910fe77660\transformed\jetified-annotation-experimental-1.1.0\res
+org.tensorflow.lite.examples.objectdetection.app-jetified-viewpager2-1.0.0-6 C:\Users\DELL\.gradle\caches\transforms-3\2a1c72373c6f24bad3bc88781a923984\transformed\jetified-viewpager2-1.0.0\res
+org.tensorflow.lite.examples.objectdetection.app-core-1.6.0-7 C:\Users\DELL\.gradle\caches\transforms-3\50abfb2f83be695257dd14461e8c26ce\transformed\core-1.6.0\res
+org.tensorflow.lite.examples.objectdetection.app-jetified-camera-view-1.1.0-beta03-8 C:\Users\DELL\.gradle\caches\transforms-3\57cda26120c5d59508edab6fcafbd004\transformed\jetified-camera-view-1.1.0-beta03\res
+org.tensorflow.lite.examples.objectdetection.app-transition-1.3.0-9 C:\Users\DELL\.gradle\caches\transforms-3\5d9dc35370837aeb18ad423fc6f2dc6a\transformed\transition-1.3.0\res
+org.tensorflow.lite.examples.objectdetection.app-databinding-adapters-7.2.1-10 C:\Users\DELL\.gradle\caches\transforms-3\61b499e0613fcb52b06731c35cadf6a4\transformed\databinding-adapters-7.2.1\res
+org.tensorflow.lite.examples.objectdetection.app-lifecycle-runtime-2.3.1-11 C:\Users\DELL\.gradle\caches\transforms-3\6798d89bf33c335c040cfacde3ba3e25\transformed\lifecycle-runtime-2.3.1\res
+org.tensorflow.lite.examples.objectdetection.app-databinding-runtime-7.2.1-12 C:\Users\DELL\.gradle\caches\transforms-3\6f5420b3feff0939e0afcdd01f295a9a\transformed\databinding-runtime-7.2.1\res
+org.tensorflow.lite.examples.objectdetection.app-jetified-camera-core-1.1.0-beta03-13 C:\Users\DELL\.gradle\caches\transforms-3\7a7244a643d4d82f06fba53fcc9a5f3c\transformed\jetified-camera-core-1.1.0-beta03\res
+org.tensorflow.lite.examples.objectdetection.app-preference-1.1.1-14 C:\Users\DELL\.gradle\caches\transforms-3\7aba3639c9d329b96956a2cfd2e2e7af\transformed\preference-1.1.1\res
+org.tensorflow.lite.examples.objectdetection.app-jetified-camera-lifecycle-1.1.0-beta03-15 C:\Users\DELL\.gradle\caches\transforms-3\7b4007b7911837f803d7edb8c03520e5\transformed\jetified-camera-lifecycle-1.1.0-beta03\res
+org.tensorflow.lite.examples.objectdetection.app-jetified-core-ktx-1.6.0-16 C:\Users\DELL\.gradle\caches\transforms-3\81f41e5e43c67b22750428ac80baf840\transformed\jetified-core-ktx-1.6.0\res
+org.tensorflow.lite.examples.objectdetection.app-recyclerview-1.1.0-17 C:\Users\DELL\.gradle\caches\transforms-3\855b62d0494aa205606033a0412b86e5\transformed\recyclerview-1.1.0\res
+org.tensorflow.lite.examples.objectdetection.app-jetified-window-1.0.0-alpha09-18 C:\Users\DELL\.gradle\caches\transforms-3\9ddd0cdeb9b3b56a34c229d7655f3a3d\transformed\jetified-window-1.0.0-alpha09\res
+org.tensorflow.lite.examples.objectdetection.app-jetified-camera-camera2-1.1.0-beta03-19 C:\Users\DELL\.gradle\caches\transforms-3\9e140256b7119ce7cbd35d7fcb067ed8\transformed\jetified-camera-camera2-1.1.0-beta03\res
+org.tensorflow.lite.examples.objectdetection.app-jetified-play-services-base-18.1.0-20 C:\Users\DELL\.gradle\caches\transforms-3\a568d968e66c65b1fcfd87ff435618e3\transformed\jetified-play-services-base-18.1.0\res
+org.tensorflow.lite.examples.objectdetection.app-material-1.4.0-21 C:\Users\DELL\.gradle\caches\transforms-3\b33fdcecbbad4c704400f058fcfa7562\transformed\material-1.4.0\res
+org.tensorflow.lite.examples.objectdetection.app-navigation-ui-2.3.5-22 C:\Users\DELL\.gradle\caches\transforms-3\bade371cf7d19827015543c048bb4f06\transformed\navigation-ui-2.3.5\res
+org.tensorflow.lite.examples.objectdetection.app-navigation-runtime-2.3.5-23 C:\Users\DELL\.gradle\caches\transforms-3\c07c4d471f9ac287f0bcc01762039639\transformed\navigation-runtime-2.3.5\res
+org.tensorflow.lite.examples.objectdetection.app-appcompat-1.3.1-24 C:\Users\DELL\.gradle\caches\transforms-3\ce99a091a53f4377064454a624fb205c\transformed\appcompat-1.3.1\res
+org.tensorflow.lite.examples.objectdetection.app-constraintlayout-2.0.4-25 C:\Users\DELL\.gradle\caches\transforms-3\d6eb7021c73041229419a6ae587c3faa\transformed\constraintlayout-2.0.4\res
+org.tensorflow.lite.examples.objectdetection.app-jetified-appcompat-resources-1.3.1-26 C:\Users\DELL\.gradle\caches\transforms-3\d9e96cb22811c224bf5a5da21c4c8e99\transformed\jetified-appcompat-resources-1.3.1\res
+org.tensorflow.lite.examples.objectdetection.app-navigation-fragment-2.3.5-27 C:\Users\DELL\.gradle\caches\transforms-3\da95e3e7660e4f4e7eddf47a929156ac\transformed\navigation-fragment-2.3.5\res
+org.tensorflow.lite.examples.objectdetection.app-navigation-common-2.3.5-28 C:\Users\DELL\.gradle\caches\transforms-3\e2841cb1900c9885b11a13b0c4cc7f36\transformed\navigation-common-2.3.5\res
+org.tensorflow.lite.examples.objectdetection.app-lifecycle-viewmodel-2.3.1-29 C:\Users\DELL\.gradle\caches\transforms-3\f93c7b8d17c3ffd5773c3fc8ac5aa659\transformed\lifecycle-viewmodel-2.3.1\res
+org.tensorflow.lite.examples.objectdetection.app-cardview-1.0.0-30 C:\Users\DELL\.gradle\caches\transforms-3\fa8ae24fd09c491cd98b999d67c110a2\transformed\cardview-1.0.0\res
+org.tensorflow.lite.examples.objectdetection.app-pngs-31 C:\Users\DELL\Documents\CPS\AI for VI\Drishti\app\build\generated\res\pngs\debug
+org.tensorflow.lite.examples.objectdetection.app-resValues-32 C:\Users\DELL\Documents\CPS\AI for VI\Drishti\app\build\generated\res\resValues\debug
+org.tensorflow.lite.examples.objectdetection.app-rs-33 C:\Users\DELL\Documents\CPS\AI for VI\Drishti\app\build\generated\res\rs\debug
+org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-34 C:\Users\DELL\Documents\CPS\AI for VI\Drishti\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-35 C:\Users\DELL\Documents\CPS\AI for VI\Drishti\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+org.tensorflow.lite.examples.objectdetection.app-merged_res-36 C:\Users\DELL\Documents\CPS\AI for VI\Drishti\app\build\intermediates\merged_res\debug
+org.tensorflow.lite.examples.objectdetection.app-debug-37 C:\Users\DELL\Documents\CPS\AI for VI\Drishti\app\src\debug\res
+org.tensorflow.lite.examples.objectdetection.app-main-38 C:\Users\DELL\Documents\CPS\AI for VI\Drishti\app\src\main\res

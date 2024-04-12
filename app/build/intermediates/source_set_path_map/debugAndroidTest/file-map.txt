@@ -1,0 +1,8 @@
+org.tensorflow.lite.examples.objectdetection.test.app-jetified-annotation-experimental-1.1.0-0 C:\Users\bhara\.gradle\caches\transforms-3\26a61a7f1224f8612f1c91910fe77660\transformed\jetified-annotation-experimental-1.1.0\res
+org.tensorflow.lite.examples.objectdetection.test.app-androidTest-1 D:\Drishti App Files and Folders\CPS-SENSE\CPS-Sense\Drishti\app\build\generated\res\resValues\androidTest\debug
+org.tensorflow.lite.examples.objectdetection.test.app-androidTest-2 D:\Drishti App Files and Folders\CPS-SENSE\CPS-Sense\Drishti\app\build\generated\res\rs\androidTest\debug
+org.tensorflow.lite.examples.objectdetection.test.app-mergeDebugAndroidTestResources-3 D:\Drishti App Files and Folders\CPS-SENSE\CPS-Sense\Drishti\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+org.tensorflow.lite.examples.objectdetection.test.app-mergeDebugAndroidTestResources-4 D:\Drishti App Files and Folders\CPS-SENSE\CPS-Sense\Drishti\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+org.tensorflow.lite.examples.objectdetection.test.app-merged_res-5 D:\Drishti App Files and Folders\CPS-SENSE\CPS-Sense\Drishti\app\build\intermediates\merged_res\debugAndroidTest
+org.tensorflow.lite.examples.objectdetection.test.app-androidTest-6 D:\Drishti App Files and Folders\CPS-SENSE\CPS-Sense\Drishti\app\src\androidTest\res
+org.tensorflow.lite.examples.objectdetection.test.app-androidTestDebug-7 D:\Drishti App Files and Folders\CPS-SENSE\CPS-Sense\Drishti\app\src\androidTestDebug\res

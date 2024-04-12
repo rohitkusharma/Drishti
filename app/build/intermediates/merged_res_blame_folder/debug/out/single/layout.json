@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-35:/layout/camera_preview_overlay.xml",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-38:/layout/camera_preview_overlay.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-35:/layout/activity_settings.xml",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-38:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-35:/layout/fragment_scan.xml",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-38:/layout/fragment_scan.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-35:/layout/info_bottom_sheet.xml",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-38:/layout/info_bottom_sheet.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-35:/layout/barcode_field.xml",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-38:/layout/barcode_field.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-35:/layout/fragment_find.xml",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-38:/layout/fragment_find.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-35:/layout/fragment_explore.xml",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-38:/layout/fragment_explore.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-35:/layout/top_action_bar_in_live_camera.xml",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-38:/layout/top_action_bar_in_live_camera.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-35:/layout/fragment_camera.xml",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-38:/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-35:/layout/fragment_read.xml",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-38:/layout/fragment_read.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-35:/layout/barcode_bottom_sheet.xml",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-38:/layout/barcode_bottom_sheet.xml"
+    }
+]
