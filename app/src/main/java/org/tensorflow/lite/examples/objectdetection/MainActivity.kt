@@ -22,7 +22,7 @@ import org.tensorflow.lite.examples.objectdetection.fragments.MyAdapter
 
 class MainActivity : AppCompatActivity() {
 
-    var tabTitle = arrayOf("Explore", "Read", "Find", "Scan")
+    var tabTitle = arrayOf("Explore", "Read", "Find", "Scan", "Detect")
 
     private lateinit var activityMainBinding: ActivityMainBinding
     private lateinit var pager: ViewPager2
@@ -72,6 +72,12 @@ class MainActivity : AppCompatActivity() {
                         ContextCompat.getColor(
                             this@MainActivity,
                             R.color.Tab4Background
+                        )
+                    )
+                    4 -> window.decorView.setBackgroundColor(
+                        ContextCompat.getColor(
+                            this@MainActivity,
+                            R.color.Tab5Background
                         )
                     )
                 }

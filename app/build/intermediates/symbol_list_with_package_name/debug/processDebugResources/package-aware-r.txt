@@ -1442,6 +1442,7 @@ color Tab1Background
 color Tab2Background
 color Tab3Background
 color Tab4Background
+color Tab5Background
 color abc_background_cache_hint_selector_material_dark
 color abc_background_cache_hint_selector_material_light
 color abc_btn_colored_borderless_text_material
@@ -3239,7 +3240,6 @@ drawable common_google_signin_btn_text_light
 drawable common_google_signin_btn_text_light_focused
 drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
-drawable cypsi_logo
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
@@ -3359,7 +3359,6 @@ drawable preference_list_divider_material
 drawable table
 drawable table_transparent
 drawable test_level_drawable
-drawable tfl_logo
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable top_action_bar_scrim
@@ -4092,6 +4091,7 @@ layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout expand_button
 layout fragment_camera
+layout fragment_detect
 layout fragment_explore
 layout fragment_find
 layout fragment_read

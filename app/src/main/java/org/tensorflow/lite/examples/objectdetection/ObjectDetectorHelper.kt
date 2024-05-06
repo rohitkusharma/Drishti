@@ -1,4 +1,3 @@
-
 package org.tensorflow.lite.examples.objectdetection
 
 import android.content.Context
@@ -22,9 +21,6 @@ import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.runBlocking
 
-
-
-
 class ObjectDetectorHelper(
     var threshold: Float = 0.6f,  // Threshold for filtering detection results
     var numThreads: Int = 1,       // Number of threads for detection
@@ -43,7 +39,6 @@ class ObjectDetectorHelper(
 
     private val TAG = "ObjectDetectionHelper"
 
-
     // For this example this needs to be a var so it can be reset on changes. If the ObjectDetector
     // will not change, a lazy val would be preferable.
     private var objectDetector: ObjectDetector? = null
@@ -51,7 +46,6 @@ class ObjectDetectorHelper(
 
     //    private val handler = Handler()
     private var tts: TextToSpeech? = null
-
 
     init {
         // Initialization block
@@ -95,7 +89,6 @@ class ObjectDetectorHelper(
 
     fun clearObjectDetector() {
         // Method to clear the object detector instance
-
         objectDetector = null
     }
 
@@ -144,9 +137,8 @@ class ObjectDetectorHelper(
             when (currentModel) {
                 MODEL_MOBILENETV1 -> "ssd_mobilenet_v1_metadata_hindi.tflite"
                 MODEL_OPEN600 -> "open600_model_meta.tflite"
-                MODEL_EFFICIENTDETV1 -> "efficientdet-lite1.tflite"
-                MODEL_EFFICIENTDETV0 -> "efficientdet-lite0.tflite"
-                else -> "efficientdet-lite2.tflite"
+                CURRENCY_DETECTOR -> "detect6_may_2026.tflite"
+                else -> "detect6_may_2026.tflite"
             }
 
         try {
@@ -234,8 +226,6 @@ class ObjectDetectorHelper(
     fun detect2(image: Bitmap, imageRotation: Int, labelsToDetect: Set<String>) {   //
         // Initialize a coroutine scope for this detection
         runBlocking {
-
-
             launch(Dispatchers.Default) {
 
                 if (!TfLiteVision.isInitialized()) {
@@ -275,7 +265,6 @@ class ObjectDetectorHelper(
                     }
                 }
 
-
                 // Calculate the inference time
                 inferenceTime = SystemClock.uptimeMillis() - inferenceTime
 
@@ -289,7 +278,6 @@ class ObjectDetectorHelper(
             }
         }
     }
-
 
 //    fun detect(image: Bitmap, imageRotation: Int) {
 //        // Obtain a reference to the Vibrator service
@@ -357,8 +345,6 @@ class ObjectDetectorHelper(
 //          tensorImage.width)
 //    }
 
-
-
     fun speakText(text: String) {
         tts?.speak(text, TextToSpeech.QUEUE_FLUSH, null, null)
 //        Log.d("speech", "I am speaking")
@@ -381,7 +367,7 @@ class ObjectDetectorHelper(
         const val DELEGATE_NNAPI = 2
         const val MODEL_MOBILENETV1 = 0
         const val MODEL_OPEN600 = 1
-        const val MODEL_EFFICIENTDETV1 = 2
-        const val MODEL_EFFICIENTDETV0 = 3
+        const val CURRENCY_DETECTOR = 2
+//        const val MODEL_EFFICIENTDETV0 = 3
     }
 }

@@ -62,14 +62,17 @@ android {
 }
 
 // import DownloadModels task
-project.ext.ASSET_DIR = projectDir.toString() + '/src/main/assets'
-project.ext.TEST_ASSETS_DIR = projectDir.toString() + '/src/androidTest/assets'
+//project.ext.ASSET_DIR = projectDir.toString() + '/src/main/assets'
+//project.ext.TEST_ASSETS_DIR = projectDir.toString() + '/src/androidTest/assets'
 
 // Download default models; if you wish to use your own models then
 // place them in the "assets" directory and comment out this line.
-apply from:'download_models.gradle'
+//apply from:'download_models.gradle'
 
 dependencies {
+    implementation 'org.tensorflow:tensorflow-lite-api:2.12.0'
+//    implementation 'org.tensorflow:tensorflow-lite:2.4.0'
+//    implementation 'org.tensorflow:tensorflow-lite-support:0.2.0'
     // Kotlin lang
     implementation 'androidx.core:core-ktx:1.12.0'
     //noinspection GradleDependency
@@ -86,6 +89,7 @@ dependencies {
     implementation 'com.google.mlkit:object-detection-common:18.0.0'
     implementation 'androidx.test:monitor:1.6.1'
     implementation 'junit:junit:4.13.2'
+    annotationProcessor 'androidx.room:room-compiler:2.6.1'
 
     // Navigation library
     def nav_version = "2.3.5"

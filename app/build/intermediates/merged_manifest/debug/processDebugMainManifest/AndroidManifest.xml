@@ -57,10 +57,9 @@
         android:debuggable="true"
         android:extractNativeLibs="false"
         android:icon="@mipmap/ic_launcher"
-        android:label=""
+        android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
-        android:taskAffinity=""
-        android:testOnly="true" >
+        android:taskAffinity="" >
         <meta-data
             android:name="com.google.mlkit.vision.DEPENDENCIES"
             android:value="ocr" />
@@ -89,6 +88,21 @@
                 android:value="true" />
         </activity>
 
+        <service
+            android:name="com.google.android.gms.metadata.ModuleDependencies"
+            android:enabled="false"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.metadata.MODULE_DEPENDENCIES" />
+            </intent-filter>
+
+            <meta-data
+                android:name="tflite_gpu_dynamite:222612000:required"
+                android:value="" />
+            <meta-data
+                android:name="tflite_dynamite:3:required"
+                android:value="" />
+        </service>
         <service
             android:name="androidx.camera.core.impl.MetadataHolderService"
             android:enabled="false"
@@ -120,21 +134,6 @@
                 android:value="androidx.startup" />
         </provider>
 
-        <service
-            android:name="com.google.android.gms.metadata.ModuleDependencies"
-            android:enabled="false"
-            android:exported="false" >
-            <intent-filter>
-                <action android:name="com.google.android.gms.metadata.MODULE_DEPENDENCIES" />
-            </intent-filter>
-
-            <meta-data
-                android:name="tflite_gpu_dynamite:222612000:required"
-                android:value="" />
-            <meta-data
-                android:name="tflite_dynamite:3:required"
-                android:value="" />
-        </service>
         <service
             android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
             android:directBootAware="true"

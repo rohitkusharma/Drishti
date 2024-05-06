@@ -14,7 +14,7 @@
     ~ limitations under the License.
 -->
 <resources>
-    <string name="app_name">TFLite Object Detection</string>
+    <string name="app_name">Drishti</string>
 
     <string name="alt_bottom_sheet_chevron">Bottom sheet expandable indicator</string>
 
@@ -46,8 +46,8 @@
     <string-array name="models_spinner_titles">
         <item>MobileNet V1</item>
         <item>MODEL_OPEN600</item>
-        <item>EfficientDet Lite1</item>
-        <item>EfficientDet Lite0</item>
+        <item>Currency Detector</item>
+<!--        <item>EfficientDet Lite0</item>-->
     </string-array>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

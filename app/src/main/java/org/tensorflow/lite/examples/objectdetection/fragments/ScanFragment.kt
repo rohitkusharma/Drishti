@@ -1,6 +1,5 @@
 package org.tensorflow.lite.examples.objectdetection.fragments
 
-
 import android.animation.AnimatorInflater
 import android.animation.AnimatorSet
 import android.content.Intent
@@ -38,7 +37,6 @@ class ScanFragment :  Fragment(), OnClickListener {
 
     private var param1: String? = null
     private var param2: String? = null
-
 
     private var cameraSource: CameraSource? = null
     private var preview: CameraSourcePreview? = null

@@ -8,6 +8,10 @@
         "source": "org.tensorflow.lite.examples.objectdetection.app-main-57:/layout/activity_settings.xml"
     },
     {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-54:/layout/fragment_detect.xml",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-57:/layout/fragment_detect.xml"
+    },
+    {
         "merged": "org.tensorflow.lite.examples.objectdetection.app-mergeDebugResources-54:/layout/camera_preview_overlay.xml",
         "source": "org.tensorflow.lite.examples.objectdetection.app-main-57:/layout/camera_preview_overlay.xml"
     },
