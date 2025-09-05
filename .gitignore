@@ -1,0 +1,26 @@
+# Created by Gemini
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.hprof
+
+# Gradle
+.gradle/
+build/
+
+# Local configuration
+local.properties
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services
+app/google-services.json
+
+# Captures
+.cxx/
+
+# Log files
+*.log
