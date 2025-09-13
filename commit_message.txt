@@ -1,0 +1,1 @@
+chore: Add .gitignore and remove tracked build files
