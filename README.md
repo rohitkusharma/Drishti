@@ -1,4 +1,4 @@
-# Drishti (दृष्टि) - AI Visual Assistant
+# Drishti (दृष्टि) - A Computer Vision based Android Application for Visually Impaired People
 
 ![App Screenshot](screenshot1.png)
 
