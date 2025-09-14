@@ -1,7 +1,5 @@
 # Drishti (दृष्टि) - A Computer Vision based Android Application for Visually Impaired People
 
-![App Screenshot](screenshot1.png)
-
 Drishti (a Sanskrit word for "vision") is an Android application that acts as a real-time visual assistant for people with vision impairments. It uses on-device machine learning to identify objects through the phone's camera and communicates what it "sees" to the user through audio and haptic feedback.
 
 ## Key Features
